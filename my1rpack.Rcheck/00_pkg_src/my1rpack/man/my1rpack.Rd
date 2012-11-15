@@ -4,9 +4,9 @@
 \title{My First R Package
 %%   ~~ data name/kind ... ~~
 }
-\description{The R package has 1 dataset and  1 function}
+\description{This R package contains 1 function and 1 dataset}
 
-\details{This R package HW2 problem3 for 550.400
+\details{This R package is the solution to problem3 of homeworkset3 of class 550400
 %%  ~~ If necessary, more details than the __description__ above ~~
 }
 \author{Yixuan DA email:yda1@jhu.edu

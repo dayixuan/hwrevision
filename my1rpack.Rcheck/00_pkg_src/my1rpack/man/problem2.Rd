@@ -1,5 +1,5 @@
 \name{Problem 2}
-\alias{HW 2}
+\alias{Homeworkset 2}
 \docType{data}
 \title{
 Medal Count For Winter Olympics 2011}
@@ -15,7 +15,7 @@ Medal Count For Winter Olympics 2011}
     \item{\code{Gold}}{Awesome!}
   }
 }
-\details{Solution to 550400 HW2 Problem2}
+\details{Solution to homeset2 problem2 for class 550400
 %%  ~~ If necessary, more details than the __description__ above ~~
 }
 \source{http://www.guardian.co.uk/news/datablog/2010/feb/11/winter-olympics-medals-by-country

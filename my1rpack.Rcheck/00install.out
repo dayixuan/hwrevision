@@ -1,0 +1,11 @@
+* installing *source* package 'my1rpack' ...
+** R
+** data
+** preparing package for lazy loading
+Warning: package 'filehash' was built under R version 2.15.2
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+
+* DONE (my1rpack)

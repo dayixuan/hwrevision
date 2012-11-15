@@ -3,8 +3,8 @@ problem1<-function(filename=NULL,fcnname=NULL,LRrange=NULL,nsample=NULL,compile=
 {
   outputtexfile=paste(filename,".tex",sep="") 
   tikz(outputtexfile,standAlone=TRUE)
-  xstart=LRrange[1]
-  xclose=LRrange[2]
+  xbeg=LRrange[1]
+  xend=LRrange[2]
   xval=seq(xbeg,xend,length=nsample)
   yval=fcnname(xval)
   plot(xval,yval,type="l",xlab ="x", ylab="dnorm(x)")  
